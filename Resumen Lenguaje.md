@@ -8,15 +8,15 @@ Existen varios tipos de modelos de creación de software vamos a ver por encima 
 
 Modelo en cascada: Este es el modelo en el que se catalogan rigurosamente los periodos del desarrollo del programa, de esto se recibe que el principio de una fase de desarrollo deba de aguardar el fin de la fase anterior. De esto se recibe que cualquier error detectado lleve al rediseño del área de código perjudicado, lo que se incrementa de precio el desarrollo del plan.
 
-![](Aspose.Words.40c8aa85-8cfd-4383-9bed-fb06dc126ff5.001.png)
+![](img1.png)
 
 Modelo en espiral: Es el modelo en el que las ocupaciones se desarrollan en espiral, estas ocupaciones se hacen acorde se van seleccionando de consenso al estudio de peligro. En cada iteración en este modelo, se deberán de tener presente las metas, las alternativas que se deberán de tomar según las propiedades, estas son vivencia personal, requisitos a consumar, las maneras de administración del sistema, entre otros.  Este modelo tiene 2 maneras en las cuales se debería de planear el plan, la manera angular, la cual sugiere solamente el progreso del programa dentro del plan y la manera radial, la cual sugiere el incremento del precio ya que cada iteración conlleva más tiempo de desarrollo.
 
-![](Aspose.Words.40c8aa85-8cfd-4383-9bed-fb06dc126ff5.002.png)
+![](img2.png)
 
 Los procesos que se deben contemplar en el ciclo de vida del software según la norma ISO 12207-1. Como aparece en la siguiente imagen.
 
-![](Aspose.Words.40c8aa85-8cfd-4383-9bed-fb06dc126ff5.003.png)
+![](img3.png)
 
 
 ## **3 ¿Qué es ERP y CRM?**
